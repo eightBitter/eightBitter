@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://img.shields.io/badge/-jacobshelby-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jacobshelby/)
+[![](https://img.shields.io/badge/-eightBitter-%23181717?style=flat-square&logo=github)](https://github.com/eightBitter)
+[![](https://img.shields.io/badge/-0000.0002.6003.9818-green?style=flat-square&logo=orcid&logoColor=ffffff)](https://orcid.org/0000-0002-6003-9818)
