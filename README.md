@@ -13,8 +13,10 @@ My name is Jacob. I'm a data professional at [NC State University Libraries](htt
 <!-- ![](https://img.shields.io/badge/-data-666666?style=flat-square)  -->
 ![](https://img.shields.io/badge/-data%20collection-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20normalization-blue?style=flat-square)
+![](https://img.shields.io/badge/-data%20transformation-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20analysis-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20visualization-blue?style=flat-square)
+![](https://img.shields.io/badge/-data%20documentation-blue?style=flat-square)
 
 <!-- ![](https://img.shields.io/badge/-coding-666666?style=flat-square) -->
 ![](https://img.shields.io/badge/-ruby-purple?style=flat-square&logo=ruby&logoColor=white)
@@ -28,6 +30,7 @@ My name is Jacob. I'm a data professional at [NC State University Libraries](htt
 ![](https://img.shields.io/badge/-empathy-red?style=flat-square)
 ![](https://img.shields.io/badge/-critical%20analysis-red?style=flat-square)
 ![](https://img.shields.io/badge/-effective%20communication-red?style=flat-square)
+![](https://img.shields.io/badge/-process%20design-red?style=flat-square)
 
 <!--
 **eightBitter/eightBitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
