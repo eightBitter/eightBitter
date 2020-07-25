@@ -1,4 +1,4 @@
-![meta banner](meta.png)
+![meta banner](https://github.com/eightBitter/eightBitter/blob/master/meta.png)
 
 ### Hello 🌎
 
