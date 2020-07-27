@@ -22,9 +22,12 @@ My name is Jacob. I'm a data professional at [NC State University Libraries](htt
 ![](https://img.shields.io/badge/-ruby-purple?style=flat-square&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/-python-purple?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-php-purple?style=flat-square&logo=php&logoColor=white)
+![](https://img.shields.io/badge/-sql-purple?style=flat-square)
 
 ![](https://img.shields.io/badge/-Tableau-66CC33?style=flat-square)
 ![](https://img.shields.io/badge/-OpenRefine-66CC33?style=flat-square)
+![](https://img.shields.io/badge/-MySQL-66CC33?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-MS%20Access-66CC33?style=flat-square)
 
 <!-- ![](https://img.shields.io/badge/-soft-666666?style=flat-square)-->
 ![](https://img.shields.io/badge/-empathy-red?style=flat-square)
