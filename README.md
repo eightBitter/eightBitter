@@ -6,17 +6,17 @@
 
 ### Hello 🌎
 
-My name is Jacob. I'm a data professional at [NC State University Libraries](https://lib.ncsu.edu). I :heart: working with data and technology to help folks make data-informed decisions and find the things they're looking for.
+My name is Jacob. I'm a metadata professional at [NC State University Libraries](https://lib.ncsu.edu). I :heart: working with metadata and technology to help folks make data-informed decisions and find the things they're looking for.
 
 ### 💪 Skills that pay the bills
 
 <!-- ![](https://img.shields.io/badge/-data-666666?style=flat-square)  -->
-![](https://img.shields.io/badge/-data%20collection-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20normalization-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20transformation-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20analysis-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20visualization-blue?style=flat-square)
 ![](https://img.shields.io/badge/-data%20documentation-blue?style=flat-square)
+![](https://img.shields.io/badge/-data%20governance-blue?style=flat-square)
 
 <!-- ![](https://img.shields.io/badge/-coding-666666?style=flat-square) -->
 ![](https://img.shields.io/badge/-ruby-purple?style=flat-square&logo=ruby&logoColor=white)
