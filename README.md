@@ -2,11 +2,10 @@
 
 [![](https://img.shields.io/badge/-jacobshelby-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jacobshelby/)
 [![](https://img.shields.io/badge/-eightBitter-%23181717?style=flat-square&logo=github)](https://github.com/eightBitter)
-[![](https://img.shields.io/badge/-0000.0002.6003.9818-66CC33?style=flat-square&logo=orcid&logoColor=FFFFFF)](https://orcid.org/0000-0002-6003-9818)
 
 ### Hello 🌎
 
-My name is Jacob. I'm a publishing analyst at ASTM International. I :heart: working with metadata and technology to efficiently process and manage data across systems.
+My name is Jacob. I'm a Data Migration Specialist at LYRASIS. I :heart: working with metadata and technology to build efficient and reusable data processes.
 
 ### 💪 Skills that pay the bills
 
@@ -25,7 +24,6 @@ My name is Jacob. I'm a publishing analyst at ASTM International. I :heart: work
 
 ![](https://img.shields.io/badge/-OpenRefine-66CC33?style=flat-square)
 ![](https://img.shields.io/badge/-MySQL-66CC33?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-MS%20Access-66CC33?style=flat-square)
 
 <!-- ![](https://img.shields.io/badge/-soft-666666?style=flat-square)-->
 ![](https://img.shields.io/badge/-empathy-red?style=flat-square)
