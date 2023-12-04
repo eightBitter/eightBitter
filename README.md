@@ -5,7 +5,7 @@
 
 ### Hello 🌎
 
-My name is Jacob. I'm a Data Migration Specialist at LYRASIS. I :heart: working with metadata and technology to build efficient and reusable data processes.
+My name is Jacob. I'm a Data Migration Specialist at Lyrasis. I :heart: working with metadata and technology to build efficient and reusable data processes.
 
 ### 💪 Skills that pay the bills
 
