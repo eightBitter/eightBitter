@@ -5,7 +5,7 @@
 
 ### Hello 🌎
 
-My name is Jacob. I'm a Data Migration Specialist at Lyrasis. I :heart: working with metadata and technology to build efficient and reusable data processes.
+My name is Jacob. I'm a Data Engineer at the National Board of Boiler and Pressure Vessel Inspectors. I :heart: working with data and technology to build efficient and reusable data processes.
 
 ### 💪 Skills that pay the bills
 
